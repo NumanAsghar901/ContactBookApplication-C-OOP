@@ -1,0 +1,7 @@
+history count: 3
+Contact Id: 1 Searched By First and Last Name Wed May  8 22:26:23 2024
+ 
+Contact Id: 2 Searched by phone number Wed May  8 22:26:59 2024
+ 
+Contact Id: 1 Searched by phone number Wed May  8 22:28:15 2024
+ 

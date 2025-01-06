@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Address">
+      <UniqueIdentifier>{3eb3ad01-4ac2-4b55-83d9-1155ff0bac45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Contact">
+      <UniqueIdentifier>{200636a3-53d6-4022-a8f5-b7b8bf755d10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ContactsBook">
+      <UniqueIdentifier>{aa5cc444-a05e-49e6-a8e7-aa87bcb6f394}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Group">
+      <UniqueIdentifier>{b717e0b7-d95a-408c-a73f-81667b90d4c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\list">
+      <UniqueIdentifier>{9ffb3b5b-2a27-4c02-af27-1f66c1fcaf62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\history">
+      <UniqueIdentifier>{98c2e686-fa65-4c9a-9522-ba0148ba2473}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Address.cpp">
+      <Filter>Source Files\Address</Filter>
+    </ClCompile>
+    <ClCompile Include="Contact.cpp">
+      <Filter>Source Files\Contact</Filter>
+    </ClCompile>
+    <ClCompile Include="ContactsBook.cpp">
+      <Filter>Source Files\ContactsBook</Filter>
+    </ClCompile>
+    <ClCompile Include="Group.cpp">
+      <Filter>Source Files\Group</Filter>
+    </ClCompile>
+    <ClCompile Include="List.cpp">
+      <Filter>Source Files\list</Filter>
+    </ClCompile>
+    <ClCompile Include="History.cpp">
+      <Filter>Source Files\history</Filter>
+    </ClCompile>
+    <ClCompile Include="HistoryObjects.cpp">
+      <Filter>Source Files\history</Filter>
+    </ClCompile>
+    <ClCompile Include="list_of_groups.cpp">
+      <Filter>Source Files\Group</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Address.h">
+      <Filter>Source Files\Address</Filter>
+    </ClInclude>
+    <ClInclude Include="Contact.h">
+      <Filter>Source Files\Contact</Filter>
+    </ClInclude>
+    <ClInclude Include="ContactsBook.h">
+      <Filter>Source Files\ContactsBook</Filter>
+    </ClInclude>
+    <ClInclude Include="Group.h">
+      <Filter>Source Files\Group</Filter>
+    </ClInclude>
+    <ClInclude Include="List.h">
+      <Filter>Source Files\list</Filter>
+    </ClInclude>
+    <ClInclude Include="History.h">
+      <Filter>Source Files\history</Filter>
+    </ClInclude>
+    <ClInclude Include="HistoryObjects.h">
+      <Filter>Source Files\history</Filter>
+    </ClInclude>
+    <ClInclude Include="list_of_groups.h">
+      <Filter>Source Files\Group</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
